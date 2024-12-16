@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 --
 -- Структура на таблица `destinations`
 --
-Use travel_db;
+
 
 CREATE TABLE `destinations` (
   `destination_id` int(11) NOT NULL,
