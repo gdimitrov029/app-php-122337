@@ -6,7 +6,7 @@
 -- Време на генериране: 14 дек 2024 в 16:29
 -- Версия на сървъра: 10.4.32-MariaDB
 -- Версия на PHP: 8.2.12
- Use travel_db;
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
